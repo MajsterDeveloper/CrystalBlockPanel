@@ -1,0 +1,5 @@
+world:
+  world-name: oneblock_world
+weather:
+  day-ticks: 3000
+  night-ticks: 18000

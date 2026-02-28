@@ -1,0 +1,6 @@
+name: CrystalBlockPanel
+main: world.bentobox.crystalblockpanel.CrystalBlockPanel
+version: 1.0.0
+api-version: 1.0.0
+description: Panel ustawień wyspy dla CrystalBlock.
+authors: [MajsterDeveloper]
